@@ -23,7 +23,7 @@ metadata:
 spec:
   channel: "stable-4.9"
   installPlanApproval: Automatic
-  name: ocs-operator
+  name: odf-operator
   # Modify source name of the catalogsource for isolated network deployments
   source: redhat-operators
   sourceNamespace: openshift-marketplace
