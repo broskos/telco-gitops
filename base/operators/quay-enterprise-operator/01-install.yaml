@@ -23,6 +23,6 @@ spec:
   sourceNamespace: openshift-marketplace
   # Modify source name of the catalogsource for air-gapped deployments
   source: redhat-operators
-  channel: quay-v3.5
+  channel: quay-v3.6
   installPlanApproval: Automatic
   name: quay-operator
